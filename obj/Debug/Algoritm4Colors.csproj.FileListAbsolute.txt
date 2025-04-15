@@ -1,0 +1,10 @@
+C:\Users\voima\source\repos\Algoritm4Colors\bin\Debug\Algoritm4Colors.exe.config
+C:\Users\voima\source\repos\Algoritm4Colors\bin\Debug\Algoritm4Colors.exe
+C:\Users\voima\source\repos\Algoritm4Colors\bin\Debug\Algoritm4Colors.pdb
+C:\Users\voima\source\repos\Algoritm4Colors\obj\Debug\Algoritm4Colors.csproj.AssemblyReference.cache
+C:\Users\voima\source\repos\Algoritm4Colors\obj\Debug\Algoritm4Colors.csproj.CoreCompileInputs.cache
+C:\Users\voima\source\repos\Algoritm4Colors\obj\Debug\Algoritm4Colors.exe
+C:\Users\voima\source\repos\Algoritm4Colors\obj\Debug\Algoritm4Colors.pdb
+C:\Users\voima\source\repos\Algoritm4Colors\bin\Debug\Newtonsoft.Json.dll
+C:\Users\voima\source\repos\Algoritm4Colors\bin\Debug\Newtonsoft.Json.xml
+C:\Users\voima\source\repos\Algoritm4Colors\obj\Debug\Algoritm.3CE28B86.Up2Date
